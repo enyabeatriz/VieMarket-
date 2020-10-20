@@ -53,7 +53,7 @@
         <div class="container col-lg-9 col-md-6 mb-4 justify-content-center text-center pt-5">
             <img class="pt-5 img-fluid logomain" src="img/main.png" alt="logo Vie" style="  height: 250px;
       width: 220px;
- border-radius: 800spx;
+ border-radius: 800px;
 ">
            
 
