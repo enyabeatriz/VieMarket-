@@ -67,13 +67,12 @@
                     <p class="card-text">El panal de miel Néctar de los Dioses 100% miel de abeja, es producido por nuestra cabaña apícola; la cual...</p>
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">Cras justo odio</li>
-                    <li class="list-group-item">Dapibus ac facilisis in</li>
-                    <li class="list-group-item">Vestibulum at eros</li>
+                    <li class="list-group-item"><p class="precio">$579</p><p class="descuento">$499</p></li>   
+                    
                 </ul>
                 <div class="card-body">
-                    <a href="#" class="card-link">Card link</a>
-                    <a href="#" class="card-link">Another link</a>
+                <a href="#" class="text-primary card-link">Detalles</a>
+                <a href="#" class="text-primary card-link">Añadir al carrito</a>
                 </div>
             </div>
         </section>
@@ -154,6 +153,7 @@
         </div>
 
     </footer>
+    
 </body>
 
 </html>
