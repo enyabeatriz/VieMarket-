@@ -1,0 +1,92 @@
+
+
+
+/*  font-family: Courier New, Courier, monospace.
+;            */
+
+
+
+.logo{
+          height: 80px !important;
+
+      width: 85px;
+border-radius: 900px;
+
+}
+.carousel-inner{
+width: 1000px;
+
+
+}
+.fondo-portada {
+    /* imagene de fondo */
+    background-image: /* gradientes como imagen de fondo */
+    linear-gradient(rgba(0, 0, 0, 0.479), rgba(255, 255, 255, 0.472))
+    /* con la coma podemos enlistar imágenes como fondo multiples  */
+    , /* vínculo a la imagen */
+    url(../img/portada.png);
+    /* tamaño de imagen de fondo */
+    background-size: cover;
+    /* imagen como mozaico */
+    background-repeat: no-repeat;
+    /* comportamiento ante el scroll */
+    background-attachment: scroll, fixed;
+}
+
+.fondonav {
+    /*  background-color: #428e92; */
+    background-color: #428e92;
+}
+.foto3{
+width: 350px;
+}
+.slide{
+width: 450px !important;
+}
+/*Footer*/
+
+.fondofooter {
+    /* background-color: #00363a; */
+    background-color: #00363a;
+}
+.footer-menu{
+
+
+        display: block;
+    margin-bottom: 20px;
+    list-style: none;
+    cursor: pointer;
+}
+.mediopago{
+
+width: 450px;
+height: 300px;
+}
+.h3{
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: orange;
+}
+
+a:hover {
+    color: #DC6094;
+    text-decoration: none;
+}
+
+.detalleproducto {
+    width: 600px;
+    height: 400px;
+}
+
+.card{
+
+    padding: 15px !important;
+}
+
+.oferta{
+
+text-align: center;
+/*margin-top: 30px;*/
+}

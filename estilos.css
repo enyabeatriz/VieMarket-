@@ -1,0 +1,54 @@
+
+
+
+/*  font-family: Courier New, Courier, monospace.
+;            */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Vollkorn', serif;
+}
+
+p,
+span,
+a,
+label,
+input,
+textarea {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.logo{
+ height:180px !important;
+      width: 150px;
+border-radius: 100px;
+}
+
+
+.fondo-portada {
+    /* imagene de fondo */
+    background-image: /* gradientes como imagen de fondo */
+    linear-gradient(rgba(0, 0, 0, 0.479), rgba(255, 255, 255, 0.472))
+    /* con la coma podemos enlistar imágenes como fondo multiples  */
+    , /* vínculo a la imagen */
+    url(../img/portada.png);
+    /* tamaño de imagen de fondo */
+    background-size: cover;
+    /* imagen como mozaico */
+    background-repeat: no-repeat;
+    /* comportamiento ante el scroll */
+    background-attachment: scroll, fixed;
+}
+
+.fondonav {
+    /*  background-color: ##428e92; */
+    background-color: #428e92;
+}
+.destacado {
+    color: blue;
+    text-decoration: white ;
+}
