@@ -59,8 +59,26 @@
                 </blockquote>
             </div>
         </section>
+
+        
         <section class="d-flex">
-            <div class="card mx-auto" style="width: 18rem;">
+        <div class="col-lg-3 hidde-res">
+                <div class="side card card-refine pt-0 mt-0 sidebar-parent-cate">
+                    <div class="card-content">
+                        <h4 class="card-title mh-n">Subcategorías <i class="fa fa-angle-down"></i></h4>
+                        <div class="panel panel-default panel-rose ">
+                            <div id="collapseMarca" class="panel-collapse" role="tabpanel" aria-labelledby="headingOne">
+                                <div class="panel-body pl-0 pr-0 pt-0">
+                                    <li><a href="#" class="menu-item waves-effect waves-light"><i class="fa fa-caret-right" aria-hidden="true"></i> Auricular Bluetooth Celular</a></li>
+                                    <li><a href="#" class="menu-item waves-effect waves-light"><i class="fa fa-caret-right" aria-hidden="true"></i> Auricular Bluetooth Celular</a></li>
+                                    <li><a href="#" class="menu-item waves-effect waves-light"><i class="fa fa-caret-right" aria-hidden="true"></i> Auricular Bluetooth Celular</a></li>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem;">
                 <img src="img/productos/panal.jpg" class="card-img-top" alt="img/productos/panal.jpg">
                 <div class="card-body">
                     <h5 class="card-title">Miel en Panal Nectar de Los Dioses</h5>
@@ -75,7 +93,22 @@
                 <a href="#" class="text-primary card-link">Añadir al carrito</a>
                 </div>
             </div>
-            <div class="card mx-auto" style="width: 18rem;">
+            <div class="card ml-5" style="width: 18rem;">
+                <img src="img/productos/panal.jpg" class="card-img-top" alt="img/productos/panal.jpg">
+                <div class="card-body">
+                    <h5 class="card-title">Miel en Panal Nectar de Los Dioses</h5>
+                    <p class="card-text">El panal de miel Néctar de los Dioses 100% miel de abeja, es producido por nuestra cabaña apícola; la cual...</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><p class="precio">$579</p><p class="descuento">$499</p></li>   
+                    
+                </ul>
+                <div class="card-body">
+                <a href="#" class="text-primary card-link">Detalles</a>
+                <a href="#" class="text-primary card-link">Añadir al carrito</a>
+                </div>
+            </div>
+            <div class="card ml-5   " style="width: 18rem;">
                 <img src="img/productos/panal.jpg" class="card-img-top" alt="img/productos/panal.jpg">
                 <div class="card-body">
                     <h5 class="card-title">Miel en Panal Nectar de Los Dioses</h5>
@@ -92,10 +125,9 @@
             </div>
             
         </section>
-        
     </main>
     <footer>
-        <div class="p-3 mb-2 fondofooter text-white">
+        <div class="p-3 mt-3 mb-2 fondofooter text-white">
             <div class="container">
                 <div class="row">
                     <div class="col-sm text-center">
@@ -170,7 +202,7 @@
         </div>
 
     </footer>
-    
+
 </body>
 
 </html>
