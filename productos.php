@@ -69,9 +69,9 @@
                         <div class="panel panel-default panel-rose ">
                             <div id="collapseMarca" class="panel-collapse" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body pl-0 pr-0 pt-0">
-                                    <li><a href="#" class="menu-item waves-effect waves-light"><i class="fa fa-caret-right" aria-hidden="true"></i> Auricular Bluetooth Celular</a></li>
-                                    <li><a href="#" class="menu-item waves-effect waves-light"><i class="fa fa-caret-right" aria-hidden="true"></i> Auricular Bluetooth Celular</a></li>
-                                    <li><a href="#" class="menu-item waves-effect waves-light"><i class="fa fa-caret-right" aria-hidden="true"></i> Auricular Bluetooth Celular</a></li>
+                                    <li><a href="#" class="menu-item waves-effect waves-light"><i class="fa fa-caret-right" aria-hidden="true"></i> Frutos secos & más</a></li>
+                                    <li><a href="#" class="menu-item waves-effect waves-light"><i class="fa fa-caret-right" aria-hidden="true"></i> Barritas y snacks</a></li>
+                                    <li><a href="#" class="menu-item waves-effect waves-light"><i class="fa fa-caret-right" aria-hidden="true"></i> Dulces, mermeladas & más</a></li>
                                 </div>
                             </div>
                         </div>
@@ -79,14 +79,13 @@
                 </div>
             </div>
             <div class="card" style="width: 18rem;">
-                <img src="img/productos/panal.jpg" class="card-img-top" alt="img/productos/panal.jpg">
+                <img src="img/productos/cococubo.jpg" class="card-img-top" alt="img/productos/panal.jpg">
                 <div class="card-body">
-                    <h5 class="card-title">Miel en Panal Nectar de Los Dioses</h5>
-                    <p class="card-text">El panal de miel Néctar de los Dioses 100% miel de abeja, es producido por nuestra cabaña apícola; la cual...</p>
+                    <h5 class="card-title">Coco en Cubos</h5>
+                    <p class="card-text">El coco atesora un montón de propiedades beneficiosas para nuestro organismo: bactericida, antioxidante, anti parasitario, protege nuestro hígado, estimula nuestro...</p>
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item"><p class="precio">$579</p><p class="descuento">$499</p></li>   
-                    
+                    <li class="list-group-item"><p class="descuento">$255</p></li>   
                 </ul>
                 <div class="card-body">
                 <a href="#" class="text-primary card-link">Detalles</a>
@@ -94,13 +93,13 @@
                 </div>
             </div>
             <div class="card ml-5" style="width: 18rem;">
-                <img src="img/productos/panal.jpg" class="card-img-top" alt="img/productos/panal.jpg">
+                <img src="img/productos/chocostevia.jpg" class="card-img-top" alt="img/productos/panal.jpg">
                 <div class="card-body">
-                    <h5 class="card-title">Miel en Panal Nectar de Los Dioses</h5>
-                    <p class="card-text">El panal de miel Néctar de los Dioses 100% miel de abeja, es producido por nuestra cabaña apícola; la cual...</p>
+                    <h5 class="card-title">Chocolate Mapsa Semi Amargo con Stevia</h5>
+                    <p class="card-text"><p>Grande 100 Grs.</p> <p>Chocolate semiamargo sin azúcar.</p> <p>Libre de Gluten. </p><p>Alimento dietético de bajo valor glucídico.</p>
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item"><p class="precio">$579</p><p class="descuento">$499</p></li>   
+                    <li class="list-group-item"><p class="descuento">$289</p></li>   
                     
                 </ul>
                 <div class="card-body">
